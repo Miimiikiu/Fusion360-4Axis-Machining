@@ -1,6 +1,8 @@
 """
+
 Copyright (c) 2023 Kieran Aponte
 This software is licensed under the MIT License.
+
 """
 
 #Combines multiple G Code files into a single output file that rotates the

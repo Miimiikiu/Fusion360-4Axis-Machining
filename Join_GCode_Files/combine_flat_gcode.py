@@ -1,3 +1,11 @@
+"""
+
+Copyright (c) 2023 Kieran Aponte
+This software is licensed under the MIT License.
+
+"""
+
+
 #Combines multiple G Code files that don't require rotation
 
 #TODO: Remove file name conventions

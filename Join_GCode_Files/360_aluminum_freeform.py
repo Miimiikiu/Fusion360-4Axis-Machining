@@ -1,3 +1,9 @@
+"""
+
+Copyright (c) 2023 Kieran Aponte
+This software is licensed under the MIT License.
+
+"""
 import os
 import ast
 
